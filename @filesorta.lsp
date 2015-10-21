@@ -2,7 +2,7 @@
 ;Name: Nicholas Flanders				Program:    @filesorta			Due: 9/9/15
 ;Contract:			Course:     CSCI 220			Prof:	John Broere
 ;
-;Description:
+;Description: Performs calculations read in from a file, and then outputs the result to a file
 ;
 ;
 ;################################################################################################
